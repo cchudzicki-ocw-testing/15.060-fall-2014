@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Robert Freund talks about teaching using the case
+  method, and how he got started writing his own cases for the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
