@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Prof. Georgia Perakis describes her process for developing
+  case studies for 15.060 Data, Models, and Decisions.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,8 +12,7 @@ parent_uid: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
 title: Developing Cases with Students
 uid: a14f49c4-6983-21e6-2339-9ff39d9e3d8e
 ---
-
-_In this section, Prof. Georgia Perakis describes her process for developing case studies for _15.060 Data, Models, and Decisions_._
+_In this section, Prof. Georgia Perakis describes her process for developing case studies for_ 15.060 Data, Models, and Decisions.
 
 {{< quote "To develop a case, I usually work with a student directly… we meet every week to develop it." "—Georgia Perakis" >}}
 
